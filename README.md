@@ -80,9 +80,3 @@ pip uninstall pyqt5
 
 
 ⸻
-
-You’re Ready!
-
-Now you can start experimenting with custom RISC-V instructions and learn CPU behavior visually.
-
-If you need help improving the design or adding features like pipelines or forwarding, just ask! 🚀
